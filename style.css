@@ -1,0 +1,57 @@
+  <!-- Internal CSS -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffefd6;
+    }
+
+    .navbar {
+      margin-bottom: 20px;
+    }
+
+    .product-title {
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+
+    .product-description {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+
+    .product-price {
+      color: #28a745;
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+
+    .product-options label {
+      margin-top: 10px;
+    }
+
+    .related-products {
+      margin-top: 50px;
+    }
+
+    .related-products h2 {
+      margin-bottom: 20px;
+    }
+
+    .card {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #f8f9fa;
+      padding: 20px 0;
+    }
+
+    footer p, footer a {
+      color: #6c757d;
+    }
+    .d-block{
+      width:700px;
+      height:400px;
+    }
+
+  </style>
